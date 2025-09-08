@@ -1,1 +1,2 @@
-
+This repository provides a machine learning framework for the subjective tinnitus diagnosis — a condition characterized by the perception of sound without an external source. 
+The code supports data preprocessing, feature engineering, model training, and performance evaluation, aiming to assist clinical decision-making and support research reproducibility. Ideal for researchers, clinicians, and developers working in audiology and AI-driven healthcare.
