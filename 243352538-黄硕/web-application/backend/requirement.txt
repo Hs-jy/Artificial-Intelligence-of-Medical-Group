@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+numpy
+flask
+joblib
+flask_cors
+json
+shap
